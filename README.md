@@ -1,2 +1,3 @@
-# [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# Serenity 360 Corporate Website
 
+## Currently configured using Github Pages, Jekyll and the Minmial Mistakes Theme
