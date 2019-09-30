@@ -60,7 +60,8 @@
 .page__footer-copyright2 {
   font-family: $global-font-family;
   font-size: $type-size-7;
-  display: inline-block
+  display: block;
+  line-height: 0.8;
 }
 
 .page__footer-follow {
